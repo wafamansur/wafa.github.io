@@ -12,9 +12,9 @@ redirect_from:
   <img src="https://wafamansur.github.io/images/kocrex1.jpeg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
-* My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
+* I am a Junior Lecturer in the [Accounting Department](http://akuntansi.polines.ac.id/) at [Politeknik Negeri Semarang](https://www.polines.ac.id/). [[Curriculum Vitae]](http://wafamansur.com/files/wafamansur_cv.pdf)
+* I received my Bachelor’s Degree in [Politeknik Negeri Semarang](https://www.polines.ac.id/). My undergraduate research advisors is [Prof. Tzong-Chen Wu  吳宗成](https://www.cs.ntust.edu.tw/index.php/en/introduction-3/group-c/tzong-chen-wu) ([National Taiwan University of Science and Technology](https://www-e.ntust.edu.tw/)).
+* My research interests lie in the general area of information security, particularly in Cryptography, Computer and Data Security, System Analysis and Design.
 
 
 # Recent News
