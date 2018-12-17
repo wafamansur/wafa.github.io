@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kocrex"
+title                    : "Ahmad Wafa Mansur"
 title_separator          : "-"
 name                     : &name "Ahmad Wafa Mansur"
 description              : &description "Junior Lecturer at Politeknik Negeri Semarang"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ahmad Wafa Mansur"
-  avatar           : "kocrex.jpeg"
+  avatar           : "kocrex1.jpeg"
   bio              : "Junior Lecturer at Politeknik Negeri Semarang"
   location         : "Semarang, Indonesia"
   employer         : 
